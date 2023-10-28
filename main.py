@@ -1,6 +1,5 @@
-# TESTE GITHUB
 from time import sleep
-i = 15
+i = 10
 while i >= 0:
     print(i)
     sleep(1)
